@@ -11,7 +11,7 @@ git clone git@github.com:nielsvanmidden/assignment-front-end-developer.git
 * Documentation of approach. Either in markdown or in inline
 
 ## Exercises
-* OPS: Implement commit hooks
+* Project setup: Implement commit hooks
 * React: Create a toaster (including tests, typescript optional)
 * Redux: State management (at least one test for reducer)
 * Separation of concerns: explain/create how to organize application with JavaScript from server
