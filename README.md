@@ -14,7 +14,7 @@ Now that we've met and introduced ourselves it's time to show off :-). Goal of t
 * Separation of concerns: explain/create how to organize application with JavaScript from server
 ** different components then toaster. Modal for example where component must listen to escape. Without having behavior implemented on component level.
 
-Approximate time to finish: 6 hours.
+Approximate time to finish: *6 hours*.
 
 ## Prerequisites
 * Yarn or NPM
