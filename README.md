@@ -16,5 +16,7 @@ Now that we've met and introduced ourselves it's time to show off :-). Goal of t
 
 Approximate time to finish: 6 hours.
 
-
-
+## Prerequisites
+* Yarn or NPM
+* JavaScript IDE
+* Git
