@@ -2,7 +2,9 @@
 
 ## Now let's get it started
 Now that we've met and introduced ourselves it's time to show off :-). Goal of this assignment is getting to know each other on a technical level. We offer you some challenges and you come up with proper solutions and explanations. Note that an explanation is as important as the solution itself.
-```git clone git@github.com:nielsvanmidden/assignment-front-end-developer.git```
+```
+git clone git@github.com:nielsvanmidden/assignment-front-end-developer.git
+```
 
 ## Requirements
 * Create a branch for each exercise and a pull request when done
