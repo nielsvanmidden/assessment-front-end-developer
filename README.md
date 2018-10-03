@@ -18,7 +18,7 @@ npm i
 1. [Setup your project](https://github.com/nielsvanmidden/assessment-front-end-developer/blob/master/1-project-setup "1-project-setup")
 2. React: [Create a toaster](https://github.com/nielsvanmidden/assessment-front-end-developer/blob/master/2-create-toaster "2-create-toaster") (including tests and typing)
 3. Redux: [Enable state management](https://github.com/nielsvanmidden/assessment-front-end-developer/blob/master/3-enable-redux "3-enable-redux") (at least one test for reducer)
-4. Separation of concerns: explain/create how to organize application with JavaScript from server
+4. [Separation of concerns](https://github.com/nielsvanmidden/assessment-front-end-developer/blob/master/4-separation-of-concerns "4-separation-of-concerns"): explain/create how to organize application with JavaScript from server
 ** different components then toaster. Modal for example where component must listen to escape. Without having behavior implemented on component level.
 
 Approximate time to finish: **6 hours**.
