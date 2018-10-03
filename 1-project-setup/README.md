@@ -1,6 +1,4 @@
 # Setup your project
-
-## Background
 So let's get started with making our lives easier. @Bol.com we are used to create new JavaScript packages once in a while that can be shared along various projects. As part of the bol.com workflow we are therefore used to create packages that are nice to work with. Not only for ourselves but for our colleagues as well.
 
 ## Exercise
@@ -15,4 +13,4 @@ With that in mind we should be able to guarentee quality, maintainability and sc
 Bonus
 * Code formatting (Prettier)
 
-Approximate time to finish: 1.5 hours.
+Approximate time to finish: **1.5 hours.**

@@ -1,7 +1,7 @@
 {
-  "name": "assignment",
+  "name": "assessment",
   "version": "1.0.0",
-  "description": "Assignment for front end developers",
+  "description": "Assessment for front end developers",
   "scripts": {
     "storybook": "start-storybook -p 6006"
   },
@@ -16,7 +16,6 @@
     "babel-eslint": "^9.0.0",
     "babel-loader": "^8.0.0",
     "redux-logger": "^3.0.6",
-    "webpack-merge": "^4.1.1",
     "@storybook/react": "^4.0.0-alpha.23",
     "@storybook/addon-actions": "^4.0.0-alpha.23",
     "@storybook/addon-links": "^4.0.0-alpha.23",

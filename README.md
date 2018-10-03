@@ -1,9 +1,13 @@
-# Assignment front end developer
+# Assessment front end developer
 
 ## Now let's get it started
-Now that we've met and introduced ourselves it's time to show off :-). Goal of this assignment is getting to know each other on a technical level. We offer you some challenges and you come up with proper solutions and explanations. Note that an explanation is as important as the solution itself.
+Now that we've met and introduced ourselves it's time to show off :-). Goal of this assessment is getting to know each other on a technical level. We offer you some challenges and you come up with proper solutions and explanations. Note that an explanation is as important as the solution itself.
 ```
-git clone git@github.com:nielsvanmidden/assignment-front-end-developer.git
+git clone git@github.com:nielsvanmidden/assessment-front-end-developer.git
+```
+Install dependencies
+```
+npm i
 ```
 
 ## Requirements
@@ -11,8 +15,8 @@ git clone git@github.com:nielsvanmidden/assignment-front-end-developer.git
 * Documentation of approach. Either in markdown or in inline
 
 ## Exercises
-* [Setup your project](https://github.com/nielsvanmidden/assignment-front-end-developer/blob/master/1-project-setup "1-project-setup")
-* React: [Create a toaster](https://github.com/nielsvanmidden/assignment-front-end-developer/blob/master/2-create-toaster "2-create-toaster") (including tests and typing)
+* [Setup your project](https://github.com/nielsvanmidden/assessment-front-end-developer/blob/master/1-project-setup "1-project-setup")
+* React: [Create a toaster](https://github.com/nielsvanmidden/assessment-front-end-developer/blob/master/2-create-toaster "2-create-toaster") (including tests and typing)
 * Redux: State management (at least one test for reducer)
 * Separation of concerns: explain/create how to organize application with JavaScript from server
 ** different components then toaster. Modal for example where component must listen to escape. Without having behavior implemented on component level.

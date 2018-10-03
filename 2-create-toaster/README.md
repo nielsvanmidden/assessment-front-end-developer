@@ -1,8 +1,6 @@
 # Creating a Toaster
-
-## Goal
 Goal of this exercise is creating a toaster for notifications. Example outcome:
-![Possible outcome](https://github.com/nielsvanmidden/assignment-front-end-developer/blob/master/2-create-toaster/example.png "Toaster with alerts")
+![Possible outcome](https://github.com/nielsvanmidden/assessment-front-end-developer/blob/master/2-create-toaster/example.png "Toaster with alerts")
 
 ## Exercise
 Create a toaster in [React Storybook](https://github.com/storybooks/storybook). A Toaster is basically a list of notifications (alerts) that shows up from the bottom of the page. Each notification should have a dismiss button. And whenever that one is clicked it should dissapear from the list.
@@ -12,7 +10,7 @@ Attached you will find a json file that respresents data for three toaster alert
 1-introduction/src/js/__data__/index.json
 ```
 
-Approximate time to finish: 1.5 hours.
+Approximate time to finish: **1.5 hours.**
 
 ## Requirements
 * Toaster renders three alert variants according to data
