@@ -10,7 +10,7 @@ With that in mind we should be able to guarentee quality, maintainability and sc
 
 **Note:** For linting it is allowed to use preconfigured packages. Please explain why you choose a certain setup. And keep accessibility (a11y) and React in mind.
 
-Bonus
+**Bonus**
 * Code formatting (Prettier)
 
 Approximate time to finish: **1.5 hours.**
