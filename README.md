@@ -11,7 +11,7 @@ npm i
 ```
 
 ## Requirements
-* Create a branch for each exercise and a pull request when done
+* Create a branch for each exercise and a pull request when done (**important**)
 * Documentation of approach. Either in markdown or in inline
 
 ## Exercises
