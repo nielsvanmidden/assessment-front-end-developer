@@ -7,7 +7,7 @@ Create a toaster in [React Storybook](https://github.com/storybooks/storybook). 
 
 Attached you will find a json file that respresents data for three toaster alert messages.
 ```
-1-introduction/src/js/__data__/index.json
+stories/__data__/index.json
 ```
 
 Approximate time to finish: **1.5 hours.**
