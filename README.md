@@ -11,8 +11,8 @@ git clone git@github.com:nielsvanmidden/assignment-front-end-developer.git
 * Documentation of approach. Either in markdown or in inline
 
 ## Exercises
-* Project setup: Implement commit hooks
-* React: Create a toaster (including tests, typescript optional)
+* [Setup your project](https://github.com/nielsvanmidden/assignment-front-end-developer/blob/master/1-project-setup "1-project-setup")
+* React: [Create a toaster](https://github.com/nielsvanmidden/assignment-front-end-developer/blob/master/2-create-toaster "2-create-toaster") (including tests and typing)
 * Redux: State management (at least one test for reducer)
 * Separation of concerns: explain/create how to organize application with JavaScript from server
 ** different components then toaster. Modal for example where component must listen to escape. Without having behavior implemented on component level.

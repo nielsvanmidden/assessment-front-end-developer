@@ -1,0 +1,35 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "Assignment for front end developers",
+  "scripts": {
+    "storybook": "start-storybook -p 6006"
+  },
+  "contributors": [
+    "Niels van Midden <niels.vanmidden@gmail.com>"
+  ],
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-eslint": "^9.0.0",
+    "babel-loader": "^8.0.0",
+    "redux-logger": "^3.0.6",
+    "webpack-merge": "^4.1.1",
+    "@storybook/react": "^4.0.0-alpha.23",
+    "@storybook/addon-actions": "^4.0.0-alpha.23",
+    "@storybook/addon-links": "^4.0.0-alpha.23",
+    "@storybook/addons": "^4.0.0-alpha.23"
+  },
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  }
+}
