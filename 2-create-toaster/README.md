@@ -33,7 +33,7 @@ http://localhost:6006
 
 ## Guidance
 Please use the following markup for rendering alerts
-```
+```html
 <div class="alert  alert--toast  alert--info" role="alert">
   <h3 class="alert__title"><!-- Title --></h3>
   <div class="c-media  c-media--center">
@@ -55,7 +55,7 @@ Note that alerts (based on type) can have the following classnames:
 * alert--success
 
 ### Example outcome
-```
+```html
 <div class="toast toast--bottom">
   <div><!-- Placeholder warning alert --></div>
   <div><!-- Placeholder info alert --></div>
