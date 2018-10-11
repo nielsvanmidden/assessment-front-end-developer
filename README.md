@@ -21,6 +21,7 @@ npm i
 4. [Separation of concerns](https://github.com/nielsvanmidden/assessment-front-end-developer/blob/master/4-separation-of-concerns "4-separation-of-concerns"): How to organize your application
 
 Approximate time to finish: **6 hours**.
+Feel free to finish quicker or spent some extra hours. As long as you can explain why.
 
 ## Prerequisites
 * Yarn or NPM
