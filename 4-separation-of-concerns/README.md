@@ -13,6 +13,8 @@ Approximate time to finish: **2 hours.**
 
 ## Requirements
 * Explain application concept you have in mind (*most important*)
+
+## Bonus
 * Toaster renders three alert variants according to data
 * Toast alerts are dismissable by clicking
 * Toast alerts are dismissable pressing escape (last item in array)
